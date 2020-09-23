@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GameDev\\Unreal\\Git\\JRPG\\JRPGTest\\JRPGUnreal\\JRPG\\Source\\JRPG\\JRPG.Build.cs",
+		"D:\\GameDev\\Unreal\\Git\\JRPG\\JRPGTest\\JRPGUnreal\\JRPG\\Source\\JRPG.Target.cs",
+		"D:\\GameDev\\Unreal\\Git\\JRPG\\JRPGTest\\JRPGUnreal\\JRPG\\Source\\JRPGEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

@@ -1,0 +1,3 @@
+D:\GameDev\Unreal\Git\JRPG\JRPGTest\JRPGUnreal\JRPG\Intermediate\Build\Win64\UE4Editor\Development\JRPG\Definitions.JRPG.h
+D:\GameDev\Unreal\Git\JRPG\JRPGTest\JRPGUnreal\JRPG\Source\JRPG\Actors\Pawns\PawnStats.h
+D:\GameDev\Unreal\Git\JRPG\JRPGTest\JRPGUnreal\JRPG\Intermediate\Build\Win64\UE4Editor\Inc\JRPG\PawnStats.generated.h

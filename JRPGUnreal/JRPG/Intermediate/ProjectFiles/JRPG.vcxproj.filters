@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\JRPG.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{11948558-566E-4D1B-A802-BF41A07CF39E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JRPG.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\JRPGEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2141355A-6F1E-4581-8183-D9A3E6C7EF67}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\JRPG">
+      <UniqueIdentifier>{730B92CC-8C6B-4934-9CC1-1E46EAFE88A0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JRPG\JRPG.Build.cs">
+      <Filter>Source\JRPG</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\JRPG\JRPG.cpp">
+      <Filter>Source\JRPG</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JRPG\JRPG.h">
+      <Filter>Source\JRPG</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JRPG\JRPGGameModeBase.cpp">
+      <Filter>Source\JRPG</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JRPG\JRPGGameModeBase.h">
+      <Filter>Source\JRPG</Filter>
+    </ClInclude>
+    <Filter Include="Source\JRPG\Actors">
+      <UniqueIdentifier>{5BB2C224-0594-46A2-8438-5A515C383193}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\JRPG\Actors\Pawns">
+      <UniqueIdentifier>{7E499C20-DA30-4831-BBB0-0259AC47A92C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

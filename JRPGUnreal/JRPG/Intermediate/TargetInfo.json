@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "JRPG",
+			"Path": "D:\\GameDev\\Unreal\\Git\\JRPG\\JRPGTest\\JRPGUnreal\\JRPG\\Source\\JRPG.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "JRPGEditor",
+			"Path": "D:\\GameDev\\Unreal\\Git\\JRPG\\JRPGTest\\JRPGUnreal\\JRPG\\Source\\JRPGEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
